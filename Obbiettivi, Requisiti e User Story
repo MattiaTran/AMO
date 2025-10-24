@@ -13,31 +13,31 @@ Lista amici
 
 USER STORY
     1. Come ascoltatore, voglio poter ascoltare i brani in background, così da non dover tenere il dispositivo acceso durante la riproduzione.
-→ Funzionale
+→ Funzionale SH
     2. Come utente, voglio avere una lista amici, così da sapere i loro gusti musicali.
-→ Funzionale
+→ Funzionale CH
     3. Come utente che usufruisce delle features presenti nelle applicazioni, voglio assegnare un’emoji al brano in ascolto, così da creare una playlist basata sulle emoji assegnate.
-→ Funzionale
+→ Funzionale CH
     4. Come utente premium, voglio scaricare un’intera playlist in un click, così da scaricare tutte le canzoni in una volta sola anziché una alla volta.
-→ Funzionale
+→ Funzionale SH
     5. Come utente, voglio poter mettere un brano tra i preferiti con un solo tap, così da ritrovarlo facilmente in futuro.
-→ Funzionale
-    6. Come sviluppatore, voglio integrare una funzionalità di pop-up pubblicitari non intrusivi, così che le pubblicità non blocchino o interrompano la riproduzione musicale.
-→ Non Funzionale
+→ Funzionale MH
+    6. Come sviluppatore, voglio integrare una funzionalità di banner pubblicitari non intrusivi, così che le pubblicità non blocchino o interrompano la riproduzione musicale.
+→ Non Funzionale SH
     7. Come utente, voglio ricevere consigli basati sui miei ascolti, così da scoprire nuova musica.
-→ Non Funzionale
+→ Non Funzionale SH
     8. Come utente, voglio che l’interfaccia sia intuitiva e coerente tra le varie sezioni, così da essere più semplice nell’utilizzo.
-→ Non Funzionale
+→ Non Funzionale MH
     9. Come utente, voglio che l’app consumi pochi dati mobili durante lo streaming, così da non sprecare troppi dati.
-→ Non Funzionale
+→ Non Funzionale MH
     10. Come sponsor, voglio far partire una pubblicità prima del download di una canzone, così da ricavare profitto.
-→ Dominio
+→ Dominio MH
     11. Come sponsor, voglio poter scegliere il target demografico delle pubblicità, così da ottimizzare il ritorno sull’investimento.
-→ Dominio
-    12. Come team di sviluppo, vogliamo che il tempo di caricamento dell'app non superi i 2 secondi, così da offrire un’esperienza utente fluida.
-→ Vincolo
+→ Dominio MH
+    12. Come team di sviuppo, vogliamo che il tempo di caricamento dell'app non superi i 2 secondi, così da offrire un’esperienza utente fluida.
+→ Vincolo SH
     13. Come utente, voglio che l’app non superi i 200MB di spazio su dispositivo, così da poterla installare anche su smartphone con poca memoria.
-→ Vincolo
+→ Vincolo SH
 
 REQUISITI FUNZIONALI:
 - login utente
