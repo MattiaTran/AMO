@@ -1,0 +1,100 @@
+OBBIETTIVI:
+Realizzare un'app diversa dalle altre;
+Applicazione in cui poter ascoltare musica gratuitamente con pubblicità non invasiva;
+Implementazione delle playlist da altre applicazioni (come YTMusic o Spotify);
+Poter scaricare i brani sul dispositivo;
+Ricerca audio del brano;
+Visualizzare le statistiche di un brano:
+poter valutare e recensire un brano da 1 a 5 stelle:
+Modalità karaoke;
+Possibilità di commentare;
+Lista amici
+
+
+USER STORY
+    1. Come ascoltatore, voglio poter ascoltare i brani in background, così da non dover tenere il dispositivo acceso durante la riproduzione.
+→ Funzionale
+    2. Come utente, voglio avere una lista amici, così da sapere i loro gusti musicali.
+→ Funzionale
+    3. Come utente che usufruisce delle features presenti nelle applicazioni, voglio assegnare un’emoji al brano in ascolto, così da creare una playlist basata sulle emoji assegnate.
+→ Funzionale
+    4. Come utente premium, voglio scaricare un’intera playlist in un click, così da scaricare tutte le canzoni in una volta sola anziché una alla volta.
+→ Funzionale
+    5. Come utente, voglio poter mettere un brano tra i preferiti con un solo tap, così da ritrovarlo facilmente in futuro.
+→ Funzionale
+    6. Come sviluppatore, voglio integrare una funzionalità di pop-up pubblicitari non intrusivi, così che le pubblicità non blocchino o interrompano la riproduzione musicale.
+→ Non Funzionale
+    7. Come utente, voglio ricevere consigli basati sui miei ascolti, così da scoprire nuova musica.
+→ Non Funzionale
+    8. Come utente, voglio che l’interfaccia sia intuitiva e coerente tra le varie sezioni, così da essere più semplice nell’utilizzo.
+→ Non Funzionale
+    9. Come utente, voglio che l’app consumi pochi dati mobili durante lo streaming, così da non sprecare troppi dati.
+→ Non Funzionale
+    10. Come sponsor, voglio far partire una pubblicità prima del download di una canzone, così da ricavare profitto.
+→ Dominio
+    11. Come sponsor, voglio poter scegliere il target demografico delle pubblicità, così da ottimizzare il ritorno sull’investimento.
+→ Dominio
+    12. Come team di sviluppo, vogliamo che il tempo di caricamento dell'app non superi i 2 secondi, così da offrire un’esperienza utente fluida.
+→ Vincolo
+    13. Come utente, voglio che l’app non superi i 200MB di spazio su dispositivo, così da poterla installare anche su smartphone con poca memoria.
+→ Vincolo
+
+REQUISITI FUNZIONALI:
+- login utente
+- ricerca delle canzoni
+- riproduzione in background
+- gestione playlist;
+- suggerimento brani;
+- download e modalità offline;
+- funzioni social;
+
+REQUISITI NON FUNZIONALI
+- prestazioni;
+- il brano deve partire entro 2 secondi da quando clicco play;
+- sicurezza (dati personali conformi al gdpr);
+- affidabilità e disponibilità;
+- interfaccia useer-friendly;
+- compatibilità su IOS e Android;
+- privacy;
+
+REQUISITI DI DOMINIO
+- rispetto delle licenze dei diritti d'autore;
+- gli artisti devono poter visualizzare le statistiche di ascolto;
+- pagamenti sicuri;
+- rispetto del GDPR;
+
+REQUISITI DI VINCOLO
+- deve essere disponibile su Google Play Store e Apple App Store;
+- rispetto delle licenze musicali;
+- rispetto dei vincoli economici (budget);
+- rispetto dei vincoli di sicurezza;
+- rispetto dei vincoli di durata;
+
+ANALISI CONCORRENZA
+Spotify
+Punti di forza:
+    • Catalogo enorme e tanti podcast.
+    • Ottime funzionalità social: playlist collaborative, condivisione facile.
+    • Personalizzazione (es. Spotify Wrapped, playlist personalizzate).
+Punti di debolezza:
+    • La versione free ha molte pubblicità e limitazioni che possono infastidire.
+    • Spotify Wrapped disponibile solo una volta all’anno
+Apple Music
+Punti di forza:
+    • Alta qualità audio.
+    • Integrazione con dispositivi Apple.
+    • Catalogo ampio.
+    • Interfaccia pulita e semplice
+Punti di debolezza:
+    • Mancanza di versione free: solo prova gratuita e abbonamenti a pagamento.
+    • Integrazione limitata su dispositivi non Apple.
+YouTube Music
+Punti di forza
+    • Ampio catalogo con contenuti video e audio, inclusi contenuti generati dagli utenti.
+    • Funzionalità di ricerca avanzata, anche per video musicali.
+    • Combinazione fluida tra musica e video.
+    • Buona base utenti grazie alla forza di YouTube come piattaforma video.
+Punti di debolezza
+    • Meno contenuti esclusivi rispetto ad Apple Music o Spotify.
+    • Alcuni utenti segnalano difficoltà nell’interazione con le funzioni social e preferenze.
+    • Meno presenza nel segmento podcast rispetto a Spotify.
