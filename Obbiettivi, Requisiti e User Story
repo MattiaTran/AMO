@@ -1,16 +1,3 @@
-OBBIETTIVI:
-Realizzare un'app diversa dalle altre;
-Applicazione in cui poter ascoltare musica gratuitamente con pubblicità non invasiva;
-Implementazione delle playlist da altre applicazioni (come YTMusic o Spotify);
-Poter scaricare i brani sul dispositivo;
-Ricerca audio del brano;
-Visualizzare le statistiche di un brano:
-poter valutare e recensire un brano da 1 a 5 stelle:
-Modalità karaoke;
-Possibilità di commentare;
-Lista amici
-
-
 USER STORY
     1. Come ascoltatore, voglio poter ascoltare i brani in background, così da non dover tenere il dispositivo acceso durante la riproduzione.
 → Funzionale SH
