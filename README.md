@@ -14,37 +14,52 @@ la colonna sonora perfetta per ogni momento della tua giornata.
 
 ---
 
+## Obiettivi
+- Realizzare un'app diversa dalle altre.  
+- Applicazione in cui poter ascoltare musica gratuitamente con pubblicità non invasiva.  
+- Implementazione delle playlist da altre applicazioni (come YouTube Music o Spotify).  
+- Poter scaricare i brani sul dispositivo.  
+- Ricerca audio del brano.  
+- Visualizzare le statistiche di un brano.  
+- Poter valutare e recensire un brano da 1 a 5 stelle.  
+- Modalità karaoke.  
+- Possibilità di commentare.  
+- Lista amici.  
+
+---
+
 ## Funzionalità principali
 
 - **Streaming illimitato:** milioni di canzoni, artisti e album sempre disponibili.  
--  **Scopri nuova musica:** suggerimenti basati sui tuoi gusti musicali.  
--  **Playlist personalizzate:** crea, modifica e condividi facilmente.  
--  **Modalità offline:** scarica i tuoi brani e ascolta ovunque.  
--  **Profilo utente:** condividi ciò che ami.  
+- **Scopri nuova musica:** suggerimenti basati sui tuoi gusti musicali.  
+- **Playlist personalizzate:** crea, modifica e condividi facilmente.  
+- **Modalità offline:** scarica i tuoi brani e ascolta ovunque.  
+- **Profilo utente:** condividi ciò che ami.  
 
 ---
 
-##  Piani disponibili
+## Piani disponibili
 
 | Piano | Descrizione |
 |-------|--------------|
-|  **Free** | Ascolto gratuito con annunci pubblicitari |
-|  **AMO Premium** | Nessuna pubblicità, qualità audio HD e download illimitati |
+| **Free** | Ascolto gratuito con annunci pubblicitari |
+| **AMO Premium** | Nessuna pubblicità, qualità audio HD e download illimitati |
 
 ---
 
-##  Disponibile su
--  **Android**
--  **iOS**
+## Disponibile su
+- **Android**
+- **iOS**
+
 ---
 
-##  Sicurezza e privacy
+## Sicurezza e privacy
 - Protezione completa dei dati secondo il **Regolamento GDPR** 🇪🇺  
 - Accesso sicuro tramite **Email, Google o Apple ID**
 
 ---
 
-##  Informazioni tecniche
+## Informazioni tecniche
 | Campo | Dettaglio |
 |--------|------------|
 | **Sviluppatore** | AMO & CO |
@@ -55,15 +70,15 @@ la colonna sonora perfetta per ogni momento della tua giornata.
 
 ---
 
-##  Novità
- Interfaccia più fluida e moderna  
- Migliorata la qualità audio in HD  
- Nuove playlist personalizzate  
+## Novità
+Interfaccia più fluida e moderna  
+Migliorata la qualità audio in HD  
+Nuove playlist personalizzate  
 
 ---
 
-##  Autori
+## Autori
 - **Alberto Pozzali - Project Manager, Web Designer**  
 - **Mattia Tran - Analista, Web Designer**  
 - **Alessandro Spada - Web Designer**  
-- **Matteo Pelizzari - Web Designer**   
+- **Matteo Pelizzari - Web Designer**
