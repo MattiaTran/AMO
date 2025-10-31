@@ -18,7 +18,7 @@ USER STORY
 → Funzionale CH
     3. Come utente che usufruisce delle features presenti nelle applicazioni, voglio assegnare un’emoji al brano in ascolto, così da creare una playlist basata sulle emoji assegnate.
 → Funzionale CH
-    4. Come utente premium, voglio scaricare un’intera playlist in un click, così da scaricare tutte le canzoni in una volta sola anziché una alla volta.
+    4. Come utente premium, voglio scaricare una canzone in un click.
 → Funzionale SH
     5. Come utente, voglio poter mettere un brano tra i preferiti con un solo tap, così da ritrovarlo facilmente in futuro.
 → Funzionale MH
@@ -34,7 +34,7 @@ USER STORY
 → Dominio MH
     11. Come sponsor, voglio poter scegliere il target demografico delle pubblicità, così da ottimizzare il ritorno sull’investimento.
 → Dominio MH
-    12. Come team di sviuppo, vogliamo che il tempo di caricamento dell'app non superi i 2 secondi, così da offrire un’esperienza utente fluida.
+    12. Come team di sviuppo, vogliamo che il tempo di caricamento dell'app non superi i 3 secondi, così da offrire un’esperienza utente fluida.
 → Vincolo SH
     13. Come utente, voglio che l’app non superi i 200MB di spazio su dispositivo, così da poterla installare anche su smartphone con poca memoria.
 → Vincolo SH
